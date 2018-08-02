@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 
     <title>Ma boutique</title>
   </head>
@@ -43,8 +44,13 @@
           </form>
         </div>
       </nav>
+    <section class="container ma-section">
+      <h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique</h1>
+    </section>
 
-    <h1>Bienvenue dans ma boutique</h1>
+  <footer>
+    &copy; 2018 Louis COUTIN - Ma boutique
+  </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
